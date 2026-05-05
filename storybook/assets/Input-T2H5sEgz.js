@@ -1,4 +1,4 @@
-import{n as e}from"./chunk-DnJy8xQt.js";import{a as t,n,o as r,r as i}from"./emotion-react-jsx-runtime.browser.esm-DFFSHqNi.js";function a({placeholder:e=`1234`,value:t,type:n,onChange:r,variant:a=`default`,...c}){return i(`input`,{...c,placeholder:e,value:t,type:n,onChange:r,css:[o,s[a]]})}var o,s,c=e((()=>{r(),n(),o=t`
+import{n as e}from"./chunk-DnJy8xQt.js";import{a as t,n,o as r,r as i}from"./emotion-react-jsx-runtime.browser.esm-DesSZ6OH.js";function a({placeholder:e=`1234`,value:t,type:n,onChange:r,variant:a=`default`,...c}){return i(`input`,{...c,placeholder:e,value:t,type:n,onChange:r,css:[o,s[a]]})}var o,s,c=e((()=>{r(),n(),o=t`
   width: 100%;
   height: 32px;
   border-radius: 2px;
