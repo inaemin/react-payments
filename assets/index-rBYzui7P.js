@@ -83,6 +83,16 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
   display: flex;
   flex-direction: column;
   gap: 16px;
+  animation: ${Jo`
+  from {
+    opacity: 0;
+    transform: translateY(-12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+`} 0.5s ease;
 `,hs=H`
   display: flex;
   flex-direction: column;
