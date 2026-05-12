@@ -1,4 +1,4 @@
-import{n as e}from"./chunk-DnJy8xQt.js";import{a as t,i as n,n as r,o as i,r as a,t as o}from"./emotion-react-jsx-runtime.browser.esm-DesSZ6OH.js";import{n as s,t as c}from"./Input-T2H5sEgz.js";function l({children:e}){return a(`h3`,{css:u,children:e})}var u,d=e((()=>{i(),r(),u=t`
+import{n as e}from"./chunk-DnJy8xQt.js";import{a as t,i as n,n as r,o as i,r as a,t as o}from"./emotion-react-jsx-runtime.browser.esm-Ci9FeOdx.js";import{n as s,t as c}from"./Input-CE76ZNFE.js";function l({children:e}){return a(`h3`,{css:u,children:e})}var u,d=e((()=>{i(),r(),u=t`
   font-weight: bold;
   font-size: 18px;
   line-height: 100%;
@@ -36,7 +36,7 @@ import{n as e}from"./chunk-DnJy8xQt.js";import{a as t,i as n,n as r,o as i,r as 
   args: {
     error: false
   },
-  render: args => <FormField {...args}>
+  render: (args: FormFieldStoryArgs) => <FormField {...args}>
       <label>CVC</label>
       <Input variant={args.error ? 'error' : 'default'} />
     </FormField>
@@ -44,7 +44,7 @@ import{n as e}from"./chunk-DnJy8xQt.js";import{a as t,i as n,n as r,o as i,r as 
   args: {
     error: true
   },
-  render: args => <FormField {...args}>
+  render: (args: FormFieldStoryArgs) => <FormField {...args}>
       <label>CVC</label>
       <Input variant={args.error ? 'error' : 'default'} />
     </FormField>
