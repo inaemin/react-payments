@@ -356,4 +356,4 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
   box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.2);
   overflow: hidden;
   border-radius: 20px;
-`,Sl=Fi([{path:`/`,Component:bl,children:[{index:!0,Component:gl},{path:as.addCard,Component:kc},{path:as.addCardComplete,Component:os}]}],{basename:is});async function Cl(){let{worker:e}=await S(async()=>{let{worker:e}=await import(`./browser-COEZ4EAE.js`);return{worker:e}},[]);return e.start({serviceWorker:{url:`${is}/mockServiceWorker.js`}})}Cl().then(()=>{(0,v.createRoot)(document.getElementById(`root`)).render(U(_.StrictMode,{children:U(Ur,{router:Sl})}))});export{Sc as t};
+`,Sl=Fi([{path:`/`,Component:bl,children:[{index:!0,Component:gl},{path:as.addCard,Component:kc},{path:as.addCardComplete,Component:os}]}],{basename:is});async function Cl(){let{worker:e}=await S(async()=>{let{worker:e}=await import(`./browser-41QTJwVm.js`);return{worker:e}},[]);return e.start({serviceWorker:{url:`${is}/mockServiceWorker.js`,options:{scope:`${is}/`}}})}Cl().then(()=>{(0,v.createRoot)(document.getElementById(`root`)).render(U(_.StrictMode,{children:U(Ur,{router:Sl})}))});export{Sc as t};
