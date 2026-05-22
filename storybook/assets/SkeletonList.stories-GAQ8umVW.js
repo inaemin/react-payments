@@ -1,4 +1,4 @@
-import{n as e}from"./chunk-DnJy8xQt.js";import{i as t,n,r}from"./emotion-react-jsx-runtime.browser.esm-BSX4Y-IX.js";import{n as i,r as a,t as o}from"./emotion-react.browser.esm-BYlh3xhb.js";function s(){return t(`div`,{css:l,children:[Array.from({length:3}).map((e,n)=>t(`div`,{css:u,children:[r(`div`,{css:d}),t(`div`,{css:f,children:[r(`div`,{css:[p,{width:80,height:14}]}),r(`div`,{css:[p,{width:140,height:10}]}),r(`div`,{css:[p,{width:60,height:9}]})]})]},n)),r(`div`,{css:m})]})}var c,l,u,d,f,p,m,h=e((()=>{i(),n(),c=o`
+import{n as e}from"./chunk-DnJy8xQt.js";import{i as t,n,r}from"./emotion-react-jsx-runtime.browser.esm-BFNh2zze.js";import{n as i,r as a,t as o}from"./emotion-react.browser.esm-Cp3FG9s0.js";function s(){return t(`div`,{css:l,children:[Array.from({length:3}).map((e,n)=>t(`div`,{css:u,children:[r(`div`,{css:d}),t(`div`,{css:f,children:[r(`div`,{css:[p,{width:80,height:14}]}),r(`div`,{css:[p,{width:140,height:10}]}),r(`div`,{css:[p,{width:60,height:9}]})]})]},n)),r(`div`,{css:m})]})}var c,l,u,d,f,p,m,h=e((()=>{i(),n(),c=o`
   background: linear-gradient(
     90deg,
     var(--color-background-skeleton) 25%,

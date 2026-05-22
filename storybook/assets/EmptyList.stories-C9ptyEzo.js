@@ -1,4 +1,4 @@
-import{n as e}from"./chunk-DnJy8xQt.js";import{n as t,r as n}from"./emotion-react-jsx-runtime.browser.esm-BSX4Y-IX.js";import{n as r,t as i}from"./emotion-react.browser.esm-BYlh3xhb.js";import{n as a,t as o}from"./Button-DzmNXQQ2.js";import{n as s,t as c}from"./StatusView-BNQffkdB.js";function l({onAddCard:e}){return n(c,{visual:n(`div`,{css:u}),title:`등록된 카드가 없습니다`,description:`아래 버튼을 눌러 첫 카드를 등록해보세요`,action:n(o,{onClick:e,children:`카드 추가하기`})})}var u,d=e((()=>{r(),a(),s(),t(),u=i`
+import{n as e}from"./chunk-DnJy8xQt.js";import{n as t,r as n}from"./emotion-react-jsx-runtime.browser.esm-BFNh2zze.js";import{n as r,t as i}from"./emotion-react.browser.esm-Cp3FG9s0.js";import{n as a,t as o}from"./Button-DK7UXOJd.js";import{n as s,t as c}from"./StatusView-ciRopGyS.js";function l({onAddCard:e}){return n(c,{visual:n(`div`,{css:u}),title:`등록된 카드가 없습니다`,description:`아래 버튼을 눌러 첫 카드를 등록해보세요`,action:n(o,{onClick:e,children:`카드 추가하기`})})}var u,d=e((()=>{r(),a(),s(),t(),u=i`
   width: 160px;
   height: 100px;
   border: 1px dashed #d9d9d9;
